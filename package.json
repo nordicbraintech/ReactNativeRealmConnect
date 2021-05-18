@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Elao/ReactNativeRealmConnect#readme",
   "peerDependencies": {
-    "react-native": "^0.53.3",
-    "realm": "^2.2.15"
+    "react-native": "^0.64.0",
+    "realm": "^10.4.1"
   }
 }
