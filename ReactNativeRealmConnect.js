@@ -90,7 +90,7 @@ export default function connectToQuery(queries, shouldComponentUpdate = null) {
        */
       componentDidUpdate(prevProps) {
         if (prevProps !== this.props) {
-          this.setState(this.getStateFromProps(nextProps));
+          this.setState(this.getStateFromProps());
         }
       }
 
